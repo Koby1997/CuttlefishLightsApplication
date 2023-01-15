@@ -1,0 +1,19 @@
+{
+  "name": "cuttlefishlightsapplication",
+  "version": "1.0.0",
+  "description": "Desktop application to control the Cuttlefish lights",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koby1997/CuttlefishLightsApplication.git"
+  },
+  "author": "Koby Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Koby1997/CuttlefishLightsApplication/issues"
+  },
+  "homepage": "https://github.com/Koby1997/CuttlefishLightsApplication#readme"
+}
